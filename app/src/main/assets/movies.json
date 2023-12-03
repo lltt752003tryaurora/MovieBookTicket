@@ -1,0 +1,3350 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "poster": "https://moviesapi.ir/images/tt0111161_poster.jpg",
+    "year": "1994",
+    "country": "USA",
+    "imdb_rating": "9.3",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0111161_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0111161_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0111161_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "poster": "https://moviesapi.ir/images/tt0068646_poster.jpg",
+    "year": "1972",
+    "country": "USA",
+    "imdb_rating": "9.2",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0068646_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0068646_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0068646_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          },
+          {
+            "time": "22:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "22:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Godfather: Part II",
+    "poster": "https://moviesapi.ir/images/tt0071562_poster.jpg",
+    "year": "1974",
+    "country": "USA",
+    "imdb_rating": "9.0",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0071562_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0071562_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0071562_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "poster": "https://moviesapi.ir/images/tt0468569_poster.jpg",
+    "year": "2008",
+    "country": "USA, UK",
+    "imdb_rating": "9.0",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0468569_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0468569_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0468569_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "12 Angry Men",
+    "poster": "https://moviesapi.ir/images/tt0050083_poster.jpg",
+    "year": "1957",
+    "country": "USA",
+    "imdb_rating": "8.9",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0050083_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0050083_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0050083_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Schindler's List",
+    "poster": "https://moviesapi.ir/images/tt0108052_poster.jpg",
+    "year": "1993",
+    "country": "USA",
+    "imdb_rating": "8.9",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0108052_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0108052_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0108052_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "unavailable"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "22:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "poster": "https://moviesapi.ir/images/tt0110912_poster.jpg",
+    "year": "1994",
+    "country": "USA",
+    "imdb_rating": "8.9",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0110912_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0110912_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0110912_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Lord of the Rings: The Return of the King",
+    "poster": "https://moviesapi.ir/images/tt0167260_poster.jpg",
+    "year": "2003",
+    "country": "USA, New Zealand",
+    "imdb_rating": "8.9",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0167260_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0167260_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0167260_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          },
+          {
+            "time": "22:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Good, the Bad and the Ugly",
+    "poster": "https://moviesapi.ir/images/tt0060196_poster.jpg",
+    "year": "1966",
+    "country": "Italy, Spain, West Germany, USA",
+    "imdb_rating": "8.9",
+    "genres": [
+      "Western"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0060196_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0060196_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0060196_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Fight Club",
+    "poster": "https://moviesapi.ir/images/tt0137523_poster.jpg",
+    "year": "1999",
+    "country": "USA, Germany",
+    "imdb_rating": "8.8",
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0137523_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0137523_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0137523_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "poster": "https://moviesapi.ir/images/tt0120737_poster.jpg",
+    "year": "2001",
+    "country": "New Zealand, USA",
+    "imdb_rating": "8.8",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0120737_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0120737_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0120737_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "22:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "poster": "https://moviesapi.ir/images/tt0080684_poster.jpg",
+    "year": "1980",
+    "country": "USA",
+    "imdb_rating": "8.8",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0080684_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0080684_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0080684_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Forrest Gump",
+    "poster": "https://moviesapi.ir/images/tt0109830_poster.jpg",
+    "year": "1994",
+    "country": "USA",
+    "imdb_rating": "8.8",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0109830_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0109830_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0109830_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Inception",
+    "poster": "https://moviesapi.ir/images/tt1375666_poster.jpg",
+    "year": "2010",
+    "country": "USA, UK",
+    "imdb_rating": "8.8",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt1375666_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt1375666_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt1375666_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "The Lord of the Rings: The Two Towers",
+    "poster": "https://moviesapi.ir/images/tt0167261_poster.jpg",
+    "year": "2002",
+    "country": "USA, New Zealand",
+    "imdb_rating": "8.7",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0167261_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0167261_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0167261_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "22:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "poster": "https://moviesapi.ir/images/tt0073486_poster.jpg",
+    "year": "1975",
+    "country": "USA",
+    "imdb_rating": "8.7",
+    "genres": [
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0073486_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0073486_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0073486_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Goodfellas",
+    "poster": "https://moviesapi.ir/images/tt0099685_poster.jpg",
+    "year": "1990",
+    "country": "USA",
+    "imdb_rating": "8.7",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0099685_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0099685_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0099685_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "22:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "The Matrix",
+    "poster": "https://moviesapi.ir/images/tt0133093_poster.jpg",
+    "year": "1999",
+    "country": "USA",
+    "imdb_rating": "8.7",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0133093_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0133093_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0133093_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Seven Samurai",
+    "poster": "https://moviesapi.ir/images/tt0047478_poster.jpg",
+    "year": "1954",
+    "country": "Japan",
+    "imdb_rating": "8.7",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "poster": "https://moviesapi.ir/images/tt0076759_poster.jpg",
+    "year": "1977",
+    "country": "USA",
+    "imdb_rating": "8.7",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0076759_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0076759_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0076759_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "22:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "City of God",
+    "poster": "https://moviesapi.ir/images/tt0317248_poster.jpg",
+    "year": "2002",
+    "country": "Brazil, France",
+    "imdb_rating": "8.7",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Se7en",
+    "poster": "https://moviesapi.ir/images/tt0114369_poster.jpg",
+    "year": "1995",
+    "country": "USA",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0114369_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0114369_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0114369_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "available"
+          },
+          {
+            "time": "16:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "The Silence of the Lambs",
+    "poster": "https://moviesapi.ir/images/tt0102926_poster.jpg",
+    "year": "1991",
+    "country": "USA",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0102926_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0102926_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0102926_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "It's a Wonderful Life",
+    "poster": "https://moviesapi.ir/images/tt0038650_poster.jpg",
+    "year": "1946",
+    "country": "USA",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0038650_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0038650_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0038650_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "The Usual Suspects",
+    "poster": "https://moviesapi.ir/images/tt0114814_poster.jpg",
+    "year": "1995",
+    "country": "USA, Germany",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0114814_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0114814_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0114814_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Life Is Beautiful",
+    "poster": "https://moviesapi.ir/images/tt0118799_poster.jpg",
+    "year": "1997",
+    "country": "Italy",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Léon: The Professional",
+    "poster": "https://moviesapi.ir/images/tt0110413_poster.jpg",
+    "year": "1994",
+    "country": "France",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0110413_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0110413_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0110413_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Spirited Away",
+    "poster": "https://moviesapi.ir/images/tt0245429_poster.jpg",
+    "year": "2001",
+    "country": "Japan",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Saving Private Ryan",
+    "poster": "https://moviesapi.ir/images/tt0120815_poster.jpg",
+    "year": "1998",
+    "country": "USA",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0120815_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0120815_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0120815_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Once Upon a Time in the West",
+    "poster": "https://moviesapi.ir/images/tt0064116_poster.jpg",
+    "year": "1968",
+    "country": "Italy, USA",
+    "imdb_rating": "8.6",
+    "genres": [
+      "Western"
+    ],
+    "images": [
+      "https://moviesapi.ir/images/tt0064116_screenshot1.jpg",
+      "https://moviesapi.ir/images/tt0064116_screenshot2.jpg",
+      "https://moviesapi.ir/images/tt0064116_screenshot3.jpg"
+    ],
+    "theaters": [
+      {
+        "name": "Cinestar Cinemas",
+        "showtimes": [
+          {
+            "time": "08:00",
+            "status": "available"
+          },
+          {
+            "time": "10:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "14:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "16:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "20:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "11:00",
+            "status": "available"
+          },
+          {
+            "time": "13:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "17:00",
+            "status": "available"
+          },
+          {
+            "time": "19:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "CGV Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "available"
+          },
+          {
+            "time": "15:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "18:00",
+            "status": "available"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Cinemas",
+        "showtimes": [
+          {
+            "time": "09:00",
+            "status": "available"
+          },
+          {
+            "time": "12:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "15:00",
+            "status": "available"
+          },
+          {
+            "time": "18:00",
+            "status": "unavailable"
+          },
+          {
+            "time": "21:00",
+            "status": "available"
+          },
+          {
+            "time": "23:00",
+            "status": "available"
+          }
+        ]
+      }
+    ]
+  }
+]
