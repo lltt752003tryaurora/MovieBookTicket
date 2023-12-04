@@ -138,7 +138,7 @@ public class AllMovieActivity extends AppCompatActivity {
                 filteredMovieList.add(movie);
             }
         }
-        adapter.updateList(filteredMovieList); // Cập nhật RecyclerView với danh sách phim đã lọc
+        adapter.updateList(filteredMovieList);
     }
 
     private List<String> getUniqueGenres(List<Movie> movies) {

@@ -33,7 +33,7 @@ import java.util.List;
 public class SeatBookingActivity extends AppCompatActivity {
     private StringRequest mStringRequest;
     private int movieId;
-    private String selectedDate, selectedTime, selectedTheater, jsonFileString;
+    private String selectedDate, selectedTime, selectedTheater;
     private ImageView picSB, backSB;
     private RequestQueue mRequestQueue;
     private TextView name_film, date_film, time_film, theater_film;
@@ -73,6 +73,7 @@ public class SeatBookingActivity extends AppCompatActivity {
             if (totalPrice1 > 0) {
                 Intent confirmIntent = new Intent(SeatBookingActivity.this, ConfirmTicket.class);
                 confirmIntent.putExtra("id", movieId);
+                confirmIntent.putExtra("selectedTheater", selectedTheater);
                 startActivity(confirmIntent);
             } else {
                 Toast.makeText(SeatBookingActivity.this, "You haven't book ticket yet.", Toast.LENGTH_SHORT).show();

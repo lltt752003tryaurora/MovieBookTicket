@@ -38,12 +38,20 @@
         <activity
             android:name=".Activities.MainActivity"
             android:exported="true">
+            <!-- Existing intent filter for the launcher -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
+            <!-- Additional intent filter for handling geo URIs -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <data android:scheme="geo" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
         </activity>
+
     </application>
 
 </manifest>

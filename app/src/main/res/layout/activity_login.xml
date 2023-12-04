@@ -49,13 +49,14 @@
 
                 <com.google.android.material.textfield.TextInputLayout
                     android:id="@+id/textInputLayoutEmail"
+                    style="@style/CustomTextInputLayout"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20sp"
-                    app:startIconDrawable="@drawable/baseline_mark_email_read_24"
                     android:textColorHint="@color/white"
-                    style="@style/CustomTextInputLayout"
+                    app:startIconDrawable="@drawable/baseline_mark_email_read_24"
                     app:startIconTint="@color/white">
+
                     <EditText
                         android:id="@+id/edtEmail"
                         android:layout_width="match_parent"
@@ -65,22 +66,23 @@
                         android:ems="10"
                         android:hint=" Email"
                         android:inputType="text"
-                        android:textColor="@color/white"
                         android:padding="20sp"
+                        android:textColor="@color/white"
                         android:textColorHint="@color/Snow3" />
                 </com.google.android.material.textfield.TextInputLayout>
 
                 <com.google.android.material.textfield.TextInputLayout
                     android:id="@+id/textInputLayoutPassword"
+                    style="@style/CustomTextInputLayout"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20sp"
-                    style="@style/CustomTextInputLayout"
-                    app:startIconDrawable="@drawable/baseline_lock_24"
                     android:textColorHint="@color/white"
+                    app:endIconMode="password_toggle"
                     app:endIconTint="@color/white"
-                    app:startIconTint="@color/white"
-                    app:endIconMode="password_toggle">
+                    app:startIconDrawable="@drawable/baseline_lock_24"
+                    app:startIconTint="@color/white">
+
                     <EditText
                         android:id="@+id/edtPassword"
                         android:layout_width="match_parent"
